@@ -9496,7 +9496,7 @@ ImageTransparency=.6,
 }),
 ah("TextLabel",{
 AutomaticSize="XY",
-Text="此Tab为空。,
+Text="此Tab为空。",
 ThemeTag={
 TextColor3="Text"
 },
@@ -11945,7 +11945,7 @@ as:SetToTheCenter()
 as:Dialog{
 
 Title="关闭窗口",
-Content="您确定要关闭此窗口吗？您将无法再次打开它。",
+Content="您要关闭此窗口吗？您将无法再次打开它。",
 Buttons={
 {
 Title="取消",
