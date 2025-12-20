@@ -9528,7 +9528,7 @@ ImageTransparency=.6,
 }),
 ah("TextLabel",{
 AutomaticSize="XY",
-Text="此Tab为空。",
+Text="This tab is empty",
 ThemeTag={
 TextColor3="Text"
 },
@@ -9812,7 +9812,7 @@ Icons=a.load'W'
 
 local ao=ah("TextBox",{
 Text="",
-PlaceholderText="搜索...",
+PlaceholderText="Search...",
 ThemeTag={
 PlaceholderColor3="Placeholder",
 TextColor3="Text",
