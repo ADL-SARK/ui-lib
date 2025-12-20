@@ -6787,7 +6787,7 @@ an.Tabs={}
 
 if an.SearchBarEnabled then
 if not as then
-as=ai("搜索...","搜索",an.UIElements.Menu,nil,function(ax)
+as=ai("Search...","search",an.UIElements.Menu,nil,function(ax)
 for ay,az in next,an.Tabs do
 if string.find(string.lower(az.Name),string.lower(ax),1,true)then
 az.UIElements.TabItem.Visible=true
