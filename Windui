@@ -8218,7 +8218,7 @@ Variant="Secondary",
 Callback=function()end
 },
 {
-Title="Apply",
+Title="应用",
 Icon="chevron-right",
 Variant="Primary",
 Callback=function()av(Color3.fromHSV(aw.Hue,aw.Sat,aw.Vib),aw.Transparency)end
@@ -9649,7 +9649,7 @@ ImageTransparency=.6,
 }),
 ah("TextLabel",{
 AutomaticSize="XY",
-Text="This tab is empty",
+Text="此Tab为空。",
 ThemeTag={
 TextColor3="Text"
 },
